@@ -45,11 +45,11 @@
 	  <artifactId>kamon-scala_2.12</artifactId>
 	  <version>0.6.7</version>
 	</dependency>
-	<dependency>
+	<!--<dependency>
 	  <groupId>io.kamon</groupId>
 	  <artifactId>kamon-jdbc_2.12</artifactId>
 	  <version>0.6.7</version>
-	</dependency>
+	</dependency>-->
 	<dependency>
 	  <groupId>org.aspectj</groupId>
 	  <artifactId>aspectjweaver</artifactId>
